@@ -10,24 +10,16 @@ I have a huge experience with web designing...
 I have designed websites using GitHub and Wordpress...
 
 ```markdown
-Syntax highlighted code block
+Languages
 
-# Header 1
-## Header 2
-### Header 3
+# HTML
+## CSS
+### JavaScript
 
-- Bulleted
-- List
+- hyper text markup language
+- cascading style sheets
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**JavaScript**
 
 ### Jekyll Themes
 
