@@ -1,0 +1,5 @@
+print("Hello World")
+print("I am Migara")
+input("Please can I know your name ?")
+print("Okay Thanks")
+input("Please enter any key to exit")
