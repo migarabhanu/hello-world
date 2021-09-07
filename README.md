@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I am a web developer who is also working with softwares. 
+I am Migara Bhanu. A young web developer who is also working with softwares. 
 
 ### Programming
 
