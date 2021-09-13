@@ -13,4 +13,4 @@ I have designed websites using GitHub and Wordpress...
 
 ### Follow Me
 
-I suppose to release so many open source projects for the GitHub. So if you like to engage in code-in. You can follow me to get my latest updates to you easily 😌
+I suppose to release so many open source projects for the GitHub. So if you like to engage in code-in. You can follow me to get my latest updates to you easily 😃
